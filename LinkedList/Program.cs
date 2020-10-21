@@ -6,7 +6,7 @@ namespace dataStructures
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the LinkedList ");
+            Console.WriteLine("Welcome to the LinkedList Demo Program");
 
             LinkedList linkedList = new LinkedList();
             linkedList.Add(56);
@@ -17,13 +17,14 @@ namespace dataStructures
             linkedList.Insert(2, 30);
             linkedList.Display();
 
-            linkedList.removetFirst();
+
+
+            linkedList.removeAtLast();
             linkedList.Display();
 
-            linkedList.removetFirst();
+
+            linkedList.removeAtLast();
             linkedList.Display();
-
-
 
         }
     }
