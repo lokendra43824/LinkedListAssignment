@@ -7,7 +7,7 @@ namespace dataStructures
     class LinkedList
     {
         public Node head;
-        public void Append(int data)
+        public void Add(int data)
         {
             Node node = new Node(data);
             if (head == null)
@@ -27,6 +27,39 @@ namespace dataStructures
             }
 
         }
+        public void Insert(int pos, int Data)
+        {
+            if (pos < 1)
+            {
+                Console.WriteLine("Invalid position");
+
+            }
+            else
+            {
+                if (pos == 1)
+                {
+                    Node node = new Node(Data);
+
+                    node.next = head;
+                    head = node;
+
+                }
+                else
+                {
+
+                    Node node = new Node(Data);
+                    Node temp = head;
+                    for (int i = 2; i < pos; i++)
+                    {
+                        temp = temp.next;
+                    }
+
+                    node.next = temp.next;
+                    temp.next = node;
+
+                }
+            }
+        }
 
 
         public void Display()
@@ -44,6 +77,7 @@ namespace dataStructures
                     temp = temp.next;
                 }
             }
+            Console.WriteLine();
         }
     }
 }
