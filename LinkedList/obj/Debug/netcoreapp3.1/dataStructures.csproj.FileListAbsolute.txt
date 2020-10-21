@@ -1,0 +1,13 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\dataStructures.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\dataStructures.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\dataStructures.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\dataStructures.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\dataStructures.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\dataStructures.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.genruntimeconfig.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\dataStructures.csprojAssemblyReference.cache

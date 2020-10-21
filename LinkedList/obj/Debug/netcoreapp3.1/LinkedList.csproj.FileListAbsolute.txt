@@ -1,0 +1,4 @@
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
