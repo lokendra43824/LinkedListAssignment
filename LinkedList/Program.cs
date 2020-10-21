@@ -16,9 +16,9 @@ namespace dataStructures
             //list.Display();*//
             //Console.WriteLine("Search element" + list.search(30));
             Linkedlist1 linkedList = new Linkedlist1();
-            linkedList.Add(70);
-            linkedList.Add(30);
             linkedList.Add(56);
+            linkedList.Add(30);
+            linkedList.Add(70);
             linkedList.Display();
            // linkedLis.Peek();
 
